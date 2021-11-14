@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "label": "One"
+    },
+    {
+      "label": "two"
+    },
+    {
+      "label": "Three"
+    }
+  ],
+  "defaultPrice": 1337
+}

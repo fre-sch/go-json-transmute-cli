@@ -1,0 +1,5 @@
+{"products": {
+  "#map": "$.items",
+  "title": "$.it.label",
+  "price": "$.parent.defaultPrice"
+}}
